@@ -9,3 +9,9 @@ Installation plugin vitanimal:
 7) Appuyer sur le bouton installer maintenant
 8) Aller dans l'onglet extensions
 9) Trouver le plugin vitanimal et appuyer sur activer
+10) ALler sur adminer: http://vita.fr/adminer.php?
+    utilisateur: wp_vita_admin
+    mdp: med**2020++bov
+11) Cliquer sur importer
+12) Choisir le fichier wp_vita.sql qui est dans build
+13) Appuyer sur importer
